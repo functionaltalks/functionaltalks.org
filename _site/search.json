@@ -3,7 +3,7 @@
 		{
 		  "title"      : "Alissa Pajer: How Haskell changed my brain",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/2014/06/15/alissa-pajer-how-haskell-changed-my-brain/",
+		  "url"        : "http://functionaltalks.github.io/functionaltalks.org/2014/06/15/alissa-pajer-how-haskell-changed-my-brain/",
 		  "date"       : "2014-06-15 00:00:00 +1000",
 		  "shortdate"  : "June 15, 2014"
 		} ,
@@ -11,7 +11,7 @@
 		{
 		  "title"      : "Rúnar Óli Bjarnason: Functional Programming is Terrible",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/2014/03/31/runar-oli-bjarnason-functional-programming-is-terrible/",
+		  "url"        : "http://functionaltalks.github.io/functionaltalks.org/2014/03/31/runar-oli-bjarnason-functional-programming-is-terrible/",
 		  "date"       : "2014-03-31 00:00:00 +1100",
 		  "shortdate"  : "March 31, 2014"
 		} ,
@@ -19,7 +19,7 @@
 		{
 		  "title"      : "Eugene Yokota: Learning Scalaz",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/2014/03/16/eugene-yokota-learning-scalaz/",
+		  "url"        : "http://functionaltalks.github.io/functionaltalks.org/2014/03/16/eugene-yokota-learning-scalaz/",
 		  "date"       : "2014-03-16 00:00:00 +1100",
 		  "shortdate"  : "March 16, 2014"
 		} ,
@@ -27,7 +27,7 @@
 		{
 		  "title"      : "Mark Hibberd &amp; Tony Morris: Argonaut - pure functional JSON",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/2014/03/05/mark-hibberd-tony-morris-argonaut-pure-functional-json/",
+		  "url"        : "http://functionaltalks.github.io/functionaltalks.org/2014/03/05/mark-hibberd-tony-morris-argonaut-pure-functional-json/",
 		  "date"       : "2014-03-05 00:00:00 +1100",
 		  "shortdate"  : "March 05, 2014"
 		} ,
@@ -35,7 +35,7 @@
 		{
 		  "title"      : "Tony Morris: Monad Transformers",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/2013/10/27/tony-morris-monad-transformers/",
+		  "url"        : "http://functionaltalks.github.io/functionaltalks.org/2013/10/27/tony-morris-monad-transformers/",
 		  "date"       : "2013-10-27 00:00:00 +1100",
 		  "shortdate"  : "October 27, 2013"
 		} ,
@@ -43,7 +43,7 @@
 		{
 		  "title"      : "Manuel Chakravarty: Do Extraterrestrials Use Functional Programming?",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/2013/10/27/manuel-chakravarty-do-extraterrestrials-use-functional-programming/",
+		  "url"        : "http://functionaltalks.github.io/functionaltalks.org/2013/10/27/manuel-chakravarty-do-extraterrestrials-use-functional-programming/",
 		  "date"       : "2013-10-27 00:00:00 +1100",
 		  "shortdate"  : "October 27, 2013"
 		} ,
@@ -51,7 +51,7 @@
 		{
 		  "title"      : "Dan Rosen: Declutter your code with monads",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/2013/09/27/dan-rosen-declutter-your-code-with-monads/",
+		  "url"        : "http://functionaltalks.github.io/functionaltalks.org/2013/09/27/dan-rosen-declutter-your-code-with-monads/",
 		  "date"       : "2013-09-27 00:00:00 +1000",
 		  "shortdate"  : "September 27, 2013"
 		} ,
@@ -59,7 +59,7 @@
 		{
 		  "title"      : "John Carmack: Thoughts on Haskell",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/2013/08/26/john-carmack-thoughts-on-haskell/",
+		  "url"        : "http://functionaltalks.github.io/functionaltalks.org/2013/08/26/john-carmack-thoughts-on-haskell/",
 		  "date"       : "2013-08-26 00:00:00 +1000",
 		  "shortdate"  : "August 26, 2013"
 		} ,
@@ -67,7 +67,7 @@
 		{
 		  "title"      : "Paul Chiusano: Advanced Stream Processing in Scala",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/2013/08/25/paul-chiusano-advanced-stream-processing-in-scala/",
+		  "url"        : "http://functionaltalks.github.io/functionaltalks.org/2013/08/25/paul-chiusano-advanced-stream-processing-in-scala/",
 		  "date"       : "2013-08-25 00:00:00 +1000",
 		  "shortdate"  : "August 25, 2013"
 		} ,
@@ -75,7 +75,7 @@
 		{
 		  "title"      : "Miles Sabin: Shapeless - Exploring Generic Programming in Scala",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/2013/07/30/miles-sabin-shapeless-exploring-generic-programming-in-scala/",
+		  "url"        : "http://functionaltalks.github.io/functionaltalks.org/2013/07/30/miles-sabin-shapeless-exploring-generic-programming-in-scala/",
 		  "date"       : "2013-07-30 00:00:00 +1000",
 		  "shortdate"  : "July 30, 2013"
 		} ,
@@ -83,7 +83,7 @@
 		{
 		  "title"      : "Wilkes Joiner: Functional Reactive Programming",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/2013/07/21/wilkes-joiner-functional-reactive-programming/",
+		  "url"        : "http://functionaltalks.github.io/functionaltalks.org/2013/07/21/wilkes-joiner-functional-reactive-programming/",
 		  "date"       : "2013-07-21 00:00:00 +1000",
 		  "shortdate"  : "July 21, 2013"
 		} ,
@@ -91,7 +91,7 @@
 		{
 		  "title"      : "Alexander Gounares: All your cores are belong to us",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/2013/07/17/alexander-gounares-all-your-cores-belong-to-us/",
+		  "url"        : "http://functionaltalks.github.io/functionaltalks.org/2013/07/17/alexander-gounares-all-your-cores-belong-to-us/",
 		  "date"       : "2013-07-17 00:00:00 +1000",
 		  "shortdate"  : "July 17, 2013"
 		} ,
@@ -99,7 +99,7 @@
 		{
 		  "title"      : "Katie Miller: Superhero monads",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/2013/07/03/katie-miller-superhero-monads/",
+		  "url"        : "http://functionaltalks.github.io/functionaltalks.org/2013/07/03/katie-miller-superhero-monads/",
 		  "date"       : "2013-07-03 00:00:00 +1000",
 		  "shortdate"  : "July 03, 2013"
 		} ,
@@ -107,7 +107,7 @@
 		{
 		  "title"      : "Ben Kolera: Isolating Side Effects with Monads",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/2013/06/27/ben-kolera-isolating-side-effects-with-monads/",
+		  "url"        : "http://functionaltalks.github.io/functionaltalks.org/2013/06/27/ben-kolera-isolating-side-effects-with-monads/",
 		  "date"       : "2013-06-27 00:00:00 +1000",
 		  "shortdate"  : "June 27, 2013"
 		} ,
@@ -115,7 +115,7 @@
 		{
 		  "title"      : "Brian McKenna: Roy - rescuing JavaScript from itself",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/2013/06/24/brian-mckenna-roy-rescuing-javascript-from-itself/",
+		  "url"        : "http://functionaltalks.github.io/functionaltalks.org/2013/06/24/brian-mckenna-roy-rescuing-javascript-from-itself/",
 		  "date"       : "2013-06-24 00:00:00 +1000",
 		  "shortdate"  : "June 24, 2013"
 		} ,
@@ -123,7 +123,7 @@
 		{
 		  "title"      : "Chris Ford: Functional Composition (musically speaking)",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/2013/06/22/chris-ford-functional-composition-musically-speaking/",
+		  "url"        : "http://functionaltalks.github.io/functionaltalks.org/2013/06/22/chris-ford-functional-composition-musically-speaking/",
 		  "date"       : "2013-06-22 00:00:00 +1000",
 		  "shortdate"  : "June 22, 2013"
 		} ,
@@ -131,7 +131,7 @@
 		{
 		  "title"      : "Paul Chiusano: How to Write a Functional Program with IO, Mutation, and other effects",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/2013/06/20/paul-chiusano-how-to-write-a-functional-program-with-io-mutation-and-other-effects/",
+		  "url"        : "http://functionaltalks.github.io/functionaltalks.org/2013/06/20/paul-chiusano-how-to-write-a-functional-program-with-io-mutation-and-other-effects/",
 		  "date"       : "2013-06-20 00:00:00 +1000",
 		  "shortdate"  : "June 20, 2013"
 		} ,
@@ -139,7 +139,7 @@
 		{
 		  "title"      : "Tony Morris: Explain List Folds to Yourself",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/2013/06/19/tony-morris-explain-list-folds-to-yourself/",
+		  "url"        : "http://functionaltalks.github.io/functionaltalks.org/2013/06/19/tony-morris-explain-list-folds-to-yourself/",
 		  "date"       : "2013-06-19 00:00:00 +1000",
 		  "shortdate"  : "June 19, 2013"
 		} ,
@@ -147,7 +147,7 @@
 		{
 		  "title"      : "Rúnar Óli Bjarnason: Dead-Simple Dependency Injection",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/2013/06/17/runar-oli-bjarnason-dead-simple-dependency-injection/",
+		  "url"        : "http://functionaltalks.github.io/functionaltalks.org/2013/06/17/runar-oli-bjarnason-dead-simple-dependency-injection/",
 		  "date"       : "2013-06-17 00:00:00 +1000",
 		  "shortdate"  : "June 17, 2013"
 		} ,
@@ -155,7 +155,7 @@
 		{
 		  "title"      : "Rich Hickey: Introduction To Clojure",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/2013/06/08/rich-hickey-introduction-to-clojure/",
+		  "url"        : "http://functionaltalks.github.io/functionaltalks.org/2013/06/08/rich-hickey-introduction-to-clojure/",
 		  "date"       : "2013-06-08 00:00:00 +1000",
 		  "shortdate"  : "June 08, 2013"
 		} ,
@@ -163,7 +163,7 @@
 		{
 		  "title"      : "Tony Morris: Dependency injection without the gymnastics",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/2013/06/03/tony-morris-dependency-injection-without-the-gymnastics/",
+		  "url"        : "http://functionaltalks.github.io/functionaltalks.org/2013/06/03/tony-morris-dependency-injection-without-the-gymnastics/",
 		  "date"       : "2013-06-03 00:00:00 +1000",
 		  "shortdate"  : "June 03, 2013"
 		} ,
@@ -171,7 +171,7 @@
 		{
 		  "title"      : "Simon Peyton Jones: A taste of Haskell",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/2013/05/30/simon-peyton-jones-a-taste-of-haskell/",
+		  "url"        : "http://functionaltalks.github.io/functionaltalks.org/2013/05/30/simon-peyton-jones-a-taste-of-haskell/",
 		  "date"       : "2013-05-30 00:00:00 +1000",
 		  "shortdate"  : "May 30, 2013"
 		} ,
@@ -179,7 +179,7 @@
 		{
 		  "title"      : "Rich Hickey: Intro to Datomic",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/2013/05/29/30/",
+		  "url"        : "http://functionaltalks.github.io/functionaltalks.org/2013/05/29/30/",
 		  "date"       : "2013-05-29 00:00:00 +1000",
 		  "shortdate"  : "May 29, 2013"
 		} ,
@@ -187,7 +187,7 @@
 		{
 		  "title"      : "John A. De Goes: Building a Data Science Platform in Scala",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/2013/05/28/john-a-de-goes-building-a-data-science-platform-in-scala/",
+		  "url"        : "http://functionaltalks.github.io/functionaltalks.org/2013/05/28/john-a-de-goes-building-a-data-science-platform-in-scala/",
 		  "date"       : "2013-05-28 00:00:00 +1000",
 		  "shortdate"  : "May 28, 2013"
 		} ,
@@ -195,7 +195,7 @@
 		{
 		  "title"      : "Nick Partridge: Scalaz",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/2013/05/27/nick-partridge-scalaz/",
+		  "url"        : "http://functionaltalks.github.io/functionaltalks.org/2013/05/27/nick-partridge-scalaz/",
 		  "date"       : "2013-05-27 00:00:00 +1000",
 		  "shortdate"  : "May 27, 2013"
 		} ,
@@ -203,7 +203,7 @@
 		{
 		  "title"      : "Michael Pilquist: Scalaz State Monad",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/2013/05/27/michael-pilquist-scalaz-state-monad/",
+		  "url"        : "http://functionaltalks.github.io/functionaltalks.org/2013/05/27/michael-pilquist-scalaz-state-monad/",
 		  "date"       : "2013-05-27 00:00:00 +1000",
 		  "shortdate"  : "May 27, 2013"
 		} ,
@@ -211,7 +211,7 @@
 		{
 		  "title"      : "Lars Hupel: Scalaz 7",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/2013/05/27/lars-hupel-scalaz-7/",
+		  "url"        : "http://functionaltalks.github.io/functionaltalks.org/2013/05/27/lars-hupel-scalaz-7/",
 		  "date"       : "2013-05-27 00:00:00 +1000",
 		  "shortdate"  : "May 27, 2013"
 		} ,
@@ -219,7 +219,7 @@
 		{
 		  "title"      : "Jordan West: Monad Transformers",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/2013/05/27/jordan-west-monad-transformers/",
+		  "url"        : "http://functionaltalks.github.io/functionaltalks.org/2013/05/27/jordan-west-monad-transformers/",
 		  "date"       : "2013-05-27 00:00:00 +1000",
 		  "shortdate"  : "May 27, 2013"
 		} ,
@@ -227,7 +227,7 @@
 		{
 		  "title"      : "Brian Lonsdorf: Hey Underscore, You&#39;re Doing It Wrong!",
 		  "category"   : "",
-		  "url"        : "http://localhost:4000/2013/05/27/brian-lonsdorf-hey-underscore-youre-doing-it-wrong/",
+		  "url"        : "http://functionaltalks.github.io/functionaltalks.org/2013/05/27/brian-lonsdorf-hey-underscore-youre-doing-it-wrong/",
 		  "date"       : "2013-05-27 00:00:00 +1000",
 		  "shortdate"  : "May 27, 2013"
 		} 
