@@ -159,7 +159,7 @@ links:
     url: /other-page/
   - title: External Link
     url: http://mademistakes.com
-    external: true 
+    external: true
 {% endhighlight %}
 
 #### Simple Search
@@ -203,7 +203,7 @@ There are a few configuration variables that can be changed in `Rakefile.rb`. By
 
 A good rule of thumb is to keep feature images nice and wide so you don't push the body text too far down. An image cropped around around 1024 x 256 pixels will keep file size down with an acceptable resolution for most devices. If you want to serve these images responsively I'd suggest looking at [Picturefill](https://github.com/scottjehl/picturefill) or [Adaptive Images](http://adaptive-images.com/).
 
-The two layouts make the assumption that the feature images live in the *images* folder. To add a feature image to a post or page just include the filename in the front matter like so. 
+The two layouts make the assumption that the feature images live in the *images* folder. To add a feature image to a post or page just include the filename in the front matter like so.
 
 {% highlight yaml %}
 image:
@@ -287,7 +287,7 @@ Having a problem getting something to work or want to know why I setup something
 
 ## License
 
-This theme is free and open source software, distributed under the [GNU General Public License]({{ site.url }}/LICENSE) version 2 or later. So feel free to to modify this theme to suit your needs. 
+This theme is free and open source software, distributed under the [GNU General Public License]({{ site.url }}/LICENSE) version 2 or later. So feel free to to modify this theme to suit your needs.
 
 If you'd like to give me credit somewhere on your blog or tweet a shout out to [@mmistakes](https://twitter.com/mmistakes), that would be pretty sweet.
 
