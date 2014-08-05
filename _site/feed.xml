@@ -7,29 +7,29 @@
 
 <title type="text">FunctionalTalks.org</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
-<link rel="alternate" type="text/html" href="http://localhost:4000/" />
-<updated>2014-08-05T20:57:37+10:00</updated>
-<id>http://localhost:4000/</id>
+<link rel="self" type="application/atom+xml" href="http://functionaltalks.github.io/functionaltalks.org/feed.xml" />
+<link rel="alternate" type="text/html" href="http://functionaltalks.github.io/functionaltalks.org/" />
+<updated>2014-08-05T21:24:53+10:00</updated>
+<id>http://functionaltalks.github.io/functionaltalks.org/</id>
 <author>
   <name>Chris Myers</name>
-  <uri>http://localhost:4000/</uri>
-  <email>you@email.com</email>
+  <uri>http://functionaltalks.github.io/functionaltalks.org/</uri>
+  <email>chris@chrisandjo.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Alissa Pajer: How Haskell changed my brain]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2014/06/15/alissa-pajer-how-haskell-changed-my-brain/"/>
-  <id>http://localhost:4000/2014/06/15/alissa-pajer-how-haskell-changed-my-brain</id>
+  <link rel="alternate" type="text/html" href="http://functionaltalks.github.io/functionaltalks.org/2014/06/15/alissa-pajer-how-haskell-changed-my-brain/"/>
+  <id>http://functionaltalks.github.io/functionaltalks.org/2014/06/15/alissa-pajer-how-haskell-changed-my-brain</id>
   <published>2014-06-15T00:00:00+10:00</published>
   <updated>2014-06-15T00:00:00+10:00</updated>
   <author>
     <name>Chris Myers</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
+    <uri>http://functionaltalks.github.io/functionaltalks.org</uri>
+    <email>chris@chrisandjo.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#category%20theory" term="category theory" /><category scheme="http://localhost:4000/tags/#haskell" term="haskell" /><category scheme="http://localhost:4000/tags/#scala" term="scala" /><category scheme="http://localhost:4000/tags/#scalaz" term="scalaz" /><category scheme="http://localhost:4000/tags/#yoneda" term="yoneda" />
+  <category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#category%20theory" term="category theory" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#haskell" term="haskell" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#scala" term="scala" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#scalaz" term="scalaz" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#yoneda" term="yoneda" />
   <content type="html">
   
     &lt;p&gt;&lt;iframe src=&quot;//player.vimeo.com/video/96639840&quot; width=&quot;700&quot; height=&quot;394&quot; frameborder=&quot;0&quot; title=&quot;Alissa Pajer - How Haskell is Changing my Brain&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
@@ -43,22 +43,22 @@
 &lt;p&gt;You can find the talk &lt;a href=&quot;http://vimeo.com/96639840&quot;&gt;here on Vimeo&lt;/a&gt; and &lt;a href=&quot;http://alissapajer.github.io/conferenceslides/flatmaposlo2014/&quot;&gt;the slides here&lt;/a&gt;.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2014/06/15/alissa-pajer-how-haskell-changed-my-brain/&quot;&gt;Alissa Pajer: How Haskell changed my brain&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://localhost:4000&quot;&gt;FunctionalTalks.org&lt;/a&gt; on June 15, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org/2014/06/15/alissa-pajer-how-haskell-changed-my-brain/&quot;&gt;Alissa Pajer: How Haskell changed my brain&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org&quot;&gt;FunctionalTalks.org&lt;/a&gt; on June 15, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Rúnar Óli Bjarnason: Functional Programming is Terrible]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2014/03/31/runar-oli-bjarnason-functional-programming-is-terrible/"/>
-  <id>http://localhost:4000/2014/03/31/runar-oli-bjarnason-functional-programming-is-terrible</id>
+  <link rel="alternate" type="text/html" href="http://functionaltalks.github.io/functionaltalks.org/2014/03/31/runar-oli-bjarnason-functional-programming-is-terrible/"/>
+  <id>http://functionaltalks.github.io/functionaltalks.org/2014/03/31/runar-oli-bjarnason-functional-programming-is-terrible</id>
   <published>2014-03-31T00:00:00+11:00</published>
   <updated>2014-03-31T00:00:00+11:00</updated>
   <author>
     <name>Chris Myers</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
+    <uri>http://functionaltalks.github.io/functionaltalks.org</uri>
+    <email>chris@chrisandjo.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#feelings" term="feelings" /><category scheme="http://localhost:4000/tags/#scala" term="scala" />
+  <category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#feelings" term="feelings" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#scala" term="scala" />
   <content type="html">
   
     &lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/hzf3hTUKk8U&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
@@ -70,22 +70,22 @@
 &lt;p&gt;You can find the talk &lt;a href=&quot;http://youtu.be/hzf3hTUKk8U&quot;&gt;here on YouTube&lt;/a&gt;.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2014/03/31/runar-oli-bjarnason-functional-programming-is-terrible/&quot;&gt;Rúnar Óli Bjarnason: Functional Programming is Terrible&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://localhost:4000&quot;&gt;FunctionalTalks.org&lt;/a&gt; on March 31, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org/2014/03/31/runar-oli-bjarnason-functional-programming-is-terrible/&quot;&gt;Rúnar Óli Bjarnason: Functional Programming is Terrible&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org&quot;&gt;FunctionalTalks.org&lt;/a&gt; on March 31, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Eugene Yokota: Learning Scalaz]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2014/03/16/eugene-yokota-learning-scalaz/"/>
-  <id>http://localhost:4000/2014/03/16/eugene-yokota-learning-scalaz</id>
+  <link rel="alternate" type="text/html" href="http://functionaltalks.github.io/functionaltalks.org/2014/03/16/eugene-yokota-learning-scalaz/"/>
+  <id>http://functionaltalks.github.io/functionaltalks.org/2014/03/16/eugene-yokota-learning-scalaz</id>
   <published>2014-03-16T00:00:00+11:00</published>
   <updated>2014-03-16T00:00:00+11:00</updated>
   <author>
     <name>Chris Myers</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
+    <uri>http://functionaltalks.github.io/functionaltalks.org</uri>
+    <email>chris@chrisandjo.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#scala" term="scala" /><category scheme="http://localhost:4000/tags/#scalaz" term="scalaz" />
+  <category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#scala" term="scala" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#scalaz" term="scalaz" />
   <content type="html">
   
     &lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/jyMIvcUxOJ0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
@@ -95,22 +95,22 @@
 &lt;p&gt;You can find the talk &lt;a href=&quot;https://thenewcircle.com/s/post/1578/learning_scalaz_eugene_yokota_video&quot;&gt;here on NewCircle&lt;/a&gt;.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2014/03/16/eugene-yokota-learning-scalaz/&quot;&gt;Eugene Yokota: Learning Scalaz&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://localhost:4000&quot;&gt;FunctionalTalks.org&lt;/a&gt; on March 16, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org/2014/03/16/eugene-yokota-learning-scalaz/&quot;&gt;Eugene Yokota: Learning Scalaz&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org&quot;&gt;FunctionalTalks.org&lt;/a&gt; on March 16, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Mark Hibberd & Tony Morris: Argonaut - pure functional JSON]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2014/03/05/mark-hibberd-tony-morris-argonaut-pure-functional-json/"/>
-  <id>http://localhost:4000/2014/03/05/mark-hibberd-tony-morris-argonaut-pure-functional-json</id>
+  <link rel="alternate" type="text/html" href="http://functionaltalks.github.io/functionaltalks.org/2014/03/05/mark-hibberd-tony-morris-argonaut-pure-functional-json/"/>
+  <id>http://functionaltalks.github.io/functionaltalks.org/2014/03/05/mark-hibberd-tony-morris-argonaut-pure-functional-json</id>
   <published>2014-03-05T00:00:00+11:00</published>
   <updated>2014-03-05T00:00:00+11:00</updated>
   <author>
     <name>Chris Myers</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
+    <uri>http://functionaltalks.github.io/functionaltalks.org</uri>
+    <email>chris@chrisandjo.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#ADT" term="ADT" /><category scheme="http://localhost:4000/tags/#argonaut" term="argonaut" /><category scheme="http://localhost:4000/tags/#javascript" term="javascript" /><category scheme="http://localhost:4000/tags/#JSON" term="JSON" /><category scheme="http://localhost:4000/tags/#lenses" term="lenses" /><category scheme="http://localhost:4000/tags/#scala" term="scala" /><category scheme="http://localhost:4000/tags/#scalaz" term="scalaz" /><category scheme="http://localhost:4000/tags/#Type%20Classes" term="Type Classes" /><category scheme="http://localhost:4000/tags/#zippers" term="zippers" />
+  <category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#ADT" term="ADT" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#argonaut" term="argonaut" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#javascript" term="javascript" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#JSON" term="JSON" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#lenses" term="lenses" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#scala" term="scala" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#scalaz" term="scalaz" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#Type%20Classes" term="Type Classes" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#zippers" term="zippers" />
   <content type="html">
   
     &lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/fBiLrPbZxxM&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
@@ -120,22 +120,22 @@
 &lt;p&gt;You can find the talk &lt;a href=&quot;http://youtu.be/fBiLrPbZxxM&quot;&gt;here on YouTube&lt;/a&gt; and can find &lt;a href=&quot;http://a.confui.com/public/conferences/5137e4d6680d707f99000005/topics/515a3b78567ee9246a000022/slides&quot;&gt;the slides here&lt;/a&gt;.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2014/03/05/mark-hibberd-tony-morris-argonaut-pure-functional-json/&quot;&gt;Mark Hibberd & Tony Morris: Argonaut - pure functional JSON&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://localhost:4000&quot;&gt;FunctionalTalks.org&lt;/a&gt; on March 05, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org/2014/03/05/mark-hibberd-tony-morris-argonaut-pure-functional-json/&quot;&gt;Mark Hibberd & Tony Morris: Argonaut - pure functional JSON&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org&quot;&gt;FunctionalTalks.org&lt;/a&gt; on March 05, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Tony Morris: Monad Transformers]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2013/10/27/tony-morris-monad-transformers/"/>
-  <id>http://localhost:4000/2013/10/27/tony-morris-monad-transformers</id>
+  <link rel="alternate" type="text/html" href="http://functionaltalks.github.io/functionaltalks.org/2013/10/27/tony-morris-monad-transformers/"/>
+  <id>http://functionaltalks.github.io/functionaltalks.org/2013/10/27/tony-morris-monad-transformers</id>
   <published>2013-10-27T00:00:00+11:00</published>
   <updated>2013-10-27T00:00:00+11:00</updated>
   <author>
     <name>Chris Myers</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
+    <uri>http://functionaltalks.github.io/functionaltalks.org</uri>
+    <email>chris@chrisandjo.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#bind" term="bind" /><category scheme="http://localhost:4000/tags/#haskell" term="haskell" /><category scheme="http://localhost:4000/tags/#monad%20transformer" term="monad transformer" />
+  <category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#bind" term="bind" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#haskell" term="haskell" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#monad%20transformer" term="monad transformer" />
   <content type="html">
   
     &lt;p&gt;&lt;iframe src=&quot;//player.vimeo.com/video/73648150&quot; width=&quot;500&quot; height=&quot;281&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
@@ -144,22 +144,22 @@
 &lt;p&gt;You can find the talk &lt;a href=&quot;http://vimeo.com/73648150&quot;&gt;here on Vimeo&lt;/a&gt; and &lt;a href=&quot;http://dl.dropboxusercontent.com/u/7810909/media/doc/monad-transformers.pdf&quot;&gt;the slides here&lt;/a&gt;.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/10/27/tony-morris-monad-transformers/&quot;&gt;Tony Morris: Monad Transformers&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://localhost:4000&quot;&gt;FunctionalTalks.org&lt;/a&gt; on October 27, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org/2013/10/27/tony-morris-monad-transformers/&quot;&gt;Tony Morris: Monad Transformers&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org&quot;&gt;FunctionalTalks.org&lt;/a&gt; on October 27, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Manuel Chakravarty: Do Extraterrestrials Use Functional Programming?]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2013/10/27/manuel-chakravarty-do-extraterrestrials-use-functional-programming/"/>
-  <id>http://localhost:4000/2013/10/27/manuel-chakravarty-do-extraterrestrials-use-functional-programming</id>
+  <link rel="alternate" type="text/html" href="http://functionaltalks.github.io/functionaltalks.org/2013/10/27/manuel-chakravarty-do-extraterrestrials-use-functional-programming/"/>
+  <id>http://functionaltalks.github.io/functionaltalks.org/2013/10/27/manuel-chakravarty-do-extraterrestrials-use-functional-programming</id>
   <published>2013-10-27T00:00:00+11:00</published>
   <updated>2013-10-27T00:00:00+11:00</updated>
   <author>
     <name>Chris Myers</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
+    <uri>http://functionaltalks.github.io/functionaltalks.org</uri>
+    <email>chris@chrisandjo.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#Alan%20Turing" term="Alan Turing" /><category scheme="http://localhost:4000/tags/#aliens" term="aliens" /><category scheme="http://localhost:4000/tags/#Haskell%20Curry" term="Haskell Curry" /><category scheme="http://localhost:4000/tags/#Howard" term="Howard" />
+  <category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#Alan%20Turing" term="Alan Turing" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#aliens" term="aliens" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#Haskell%20Curry" term="Haskell Curry" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#Howard" term="Howard" />
   <content type="html">
   
     &lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/gUZYHo_nrVU?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
@@ -168,22 +168,22 @@
 &lt;p&gt;You can find the talk &lt;a href=&quot;http://youtu.be/gUZYHo_nrVU&quot;&gt;here on YouTube&lt;/a&gt; and &lt;a href=&quot;https://speakerdeck.com/mchakravarty/do-extraterrestrials-use-functional-programming&quot;&gt;the slides here&lt;/a&gt;.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/10/27/manuel-chakravarty-do-extraterrestrials-use-functional-programming/&quot;&gt;Manuel Chakravarty: Do Extraterrestrials Use Functional Programming?&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://localhost:4000&quot;&gt;FunctionalTalks.org&lt;/a&gt; on October 27, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org/2013/10/27/manuel-chakravarty-do-extraterrestrials-use-functional-programming/&quot;&gt;Manuel Chakravarty: Do Extraterrestrials Use Functional Programming?&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org&quot;&gt;FunctionalTalks.org&lt;/a&gt; on October 27, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Dan Rosen: Declutter your code with monads]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2013/09/27/dan-rosen-declutter-your-code-with-monads/"/>
-  <id>http://localhost:4000/2013/09/27/dan-rosen-declutter-your-code-with-monads</id>
+  <link rel="alternate" type="text/html" href="http://functionaltalks.github.io/functionaltalks.org/2013/09/27/dan-rosen-declutter-your-code-with-monads/"/>
+  <id>http://functionaltalks.github.io/functionaltalks.org/2013/09/27/dan-rosen-declutter-your-code-with-monads</id>
   <published>2013-09-27T00:00:00+10:00</published>
   <updated>2013-09-27T00:00:00+10:00</updated>
   <author>
     <name>Chris Myers</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
+    <uri>http://functionaltalks.github.io/functionaltalks.org</uri>
+    <email>chris@chrisandjo.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#flatmap" term="flatmap" /><category scheme="http://localhost:4000/tags/#for-comprehension" term="for-comprehension" /><category scheme="http://localhost:4000/tags/#list%20monad" term="list monad" /><category scheme="http://localhost:4000/tags/#map" term="map" /><category scheme="http://localhost:4000/tags/#monad" term="monad" /><category scheme="http://localhost:4000/tags/#option%20monad" term="option monad" /><category scheme="http://localhost:4000/tags/#scala" term="scala" /><category scheme="http://localhost:4000/tags/#scalaz" term="scalaz" /><category scheme="http://localhost:4000/tags/#validation%20monad" term="validation monad" />
+  <category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#flatmap" term="flatmap" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#for-comprehension" term="for-comprehension" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#list%20monad" term="list monad" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#map" term="map" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#monad" term="monad" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#option%20monad" term="option monad" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#scala" term="scala" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#scalaz" term="scalaz" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#validation%20monad" term="validation monad" />
   <content type="html">
   
     &lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/Mw_Jnn_Y5iA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
@@ -193,22 +193,22 @@
 &lt;p&gt;You can find the talk &lt;a href=&quot;http://youtu.be/Mw_Jnn_Y5iA&quot;&gt;here on YouTube&lt;/a&gt;.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/09/27/dan-rosen-declutter-your-code-with-monads/&quot;&gt;Dan Rosen: Declutter your code with monads&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://localhost:4000&quot;&gt;FunctionalTalks.org&lt;/a&gt; on September 27, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org/2013/09/27/dan-rosen-declutter-your-code-with-monads/&quot;&gt;Dan Rosen: Declutter your code with monads&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org&quot;&gt;FunctionalTalks.org&lt;/a&gt; on September 27, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[John Carmack: Thoughts on Haskell]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2013/08/26/john-carmack-thoughts-on-haskell/"/>
-  <id>http://localhost:4000/2013/08/26/john-carmack-thoughts-on-haskell</id>
+  <link rel="alternate" type="text/html" href="http://functionaltalks.github.io/functionaltalks.org/2013/08/26/john-carmack-thoughts-on-haskell/"/>
+  <id>http://functionaltalks.github.io/functionaltalks.org/2013/08/26/john-carmack-thoughts-on-haskell</id>
   <published>2013-08-26T00:00:00+10:00</published>
   <updated>2013-08-26T00:00:00+10:00</updated>
   <author>
     <name>Chris Myers</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
+    <uri>http://functionaltalks.github.io/functionaltalks.org</uri>
+    <email>chris@chrisandjo.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#doom" term="doom" /><category scheme="http://localhost:4000/tags/#haskell" term="haskell" /><category scheme="http://localhost:4000/tags/#immutability" term="immutability" /><category scheme="http://localhost:4000/tags/#quake" term="quake" />
+  <category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#doom" term="doom" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#haskell" term="haskell" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#immutability" term="immutability" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#quake" term="quake" />
   <content type="html">
   
     &lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/1PhArSujR_A?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
@@ -218,22 +218,22 @@
 &lt;p&gt;You can find the talk &lt;a href=&quot;http://youtu.be/1PhArSujR_A&quot;&gt;here on YouTube&lt;/a&gt;.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/08/26/john-carmack-thoughts-on-haskell/&quot;&gt;John Carmack: Thoughts on Haskell&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://localhost:4000&quot;&gt;FunctionalTalks.org&lt;/a&gt; on August 26, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org/2013/08/26/john-carmack-thoughts-on-haskell/&quot;&gt;John Carmack: Thoughts on Haskell&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org&quot;&gt;FunctionalTalks.org&lt;/a&gt; on August 26, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Paul Chiusano: Advanced Stream Processing in Scala]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2013/08/25/paul-chiusano-advanced-stream-processing-in-scala/"/>
-  <id>http://localhost:4000/2013/08/25/paul-chiusano-advanced-stream-processing-in-scala</id>
+  <link rel="alternate" type="text/html" href="http://functionaltalks.github.io/functionaltalks.org/2013/08/25/paul-chiusano-advanced-stream-processing-in-scala/"/>
+  <id>http://functionaltalks.github.io/functionaltalks.org/2013/08/25/paul-chiusano-advanced-stream-processing-in-scala</id>
   <published>2013-08-25T00:00:00+10:00</published>
   <updated>2013-08-25T00:00:00+10:00</updated>
   <author>
     <name>Chris Myers</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
+    <uri>http://functionaltalks.github.io/functionaltalks.org</uri>
+    <email>chris@chrisandjo.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#io" term="io" /><category scheme="http://localhost:4000/tags/#scala" term="scala" /><category scheme="http://localhost:4000/tags/#scalaz" term="scalaz" /><category scheme="http://localhost:4000/tags/#scalaz-stream" term="scalaz-stream" /><category scheme="http://localhost:4000/tags/#stream" term="stream" /><category scheme="http://localhost:4000/tags/#stream%20processing" term="stream processing" />
+  <category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#io" term="io" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#scala" term="scala" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#scalaz" term="scalaz" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#scalaz-stream" term="scalaz-stream" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#stream" term="stream" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#stream%20processing" term="stream processing" />
   <content type="html">
   
     &lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/8fC2V9HX_m8?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
@@ -242,22 +242,22 @@
 &lt;p&gt;You can find the talk &lt;a href=&quot;http://youtu.be/8fC2V9HX_m8&quot;&gt;here on YouTube&lt;/a&gt;.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/08/25/paul-chiusano-advanced-stream-processing-in-scala/&quot;&gt;Paul Chiusano: Advanced Stream Processing in Scala&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://localhost:4000&quot;&gt;FunctionalTalks.org&lt;/a&gt; on August 25, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org/2013/08/25/paul-chiusano-advanced-stream-processing-in-scala/&quot;&gt;Paul Chiusano: Advanced Stream Processing in Scala&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org&quot;&gt;FunctionalTalks.org&lt;/a&gt; on August 25, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Miles Sabin: Shapeless - Exploring Generic Programming in Scala]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2013/07/30/miles-sabin-shapeless-exploring-generic-programming-in-scala/"/>
-  <id>http://localhost:4000/2013/07/30/miles-sabin-shapeless-exploring-generic-programming-in-scala</id>
+  <link rel="alternate" type="text/html" href="http://functionaltalks.github.io/functionaltalks.org/2013/07/30/miles-sabin-shapeless-exploring-generic-programming-in-scala/"/>
+  <id>http://functionaltalks.github.io/functionaltalks.org/2013/07/30/miles-sabin-shapeless-exploring-generic-programming-in-scala</id>
   <published>2013-07-30T00:00:00+10:00</published>
   <updated>2013-07-30T00:00:00+10:00</updated>
   <author>
     <name>Chris Myers</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
+    <uri>http://functionaltalks.github.io/functionaltalks.org</uri>
+    <email>chris@chrisandjo.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#generics" term="generics" /><category scheme="http://localhost:4000/tags/#HList" term="HList" /><category scheme="http://localhost:4000/tags/#nescala" term="nescala" /><category scheme="http://localhost:4000/tags/#polytypic%20programming" term="polytypic programming" /><category scheme="http://localhost:4000/tags/#scala" term="scala" /><category scheme="http://localhost:4000/tags/#scalaz" term="scalaz" /><category scheme="http://localhost:4000/tags/#shapeless" term="shapeless" />
+  <category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#generics" term="generics" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#HList" term="HList" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#nescala" term="nescala" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#polytypic%20programming" term="polytypic programming" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#scala" term="scala" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#scalaz" term="scalaz" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#shapeless" term="shapeless" />
   <content type="html">
   
     &lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/GDbNxL8bqkY?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
@@ -267,22 +267,22 @@
 &lt;p&gt;You can find the talk &lt;a href=&quot;http://youtu.be/GDbNxL8bqkY&quot;&gt;on YouTube&lt;/a&gt; and the &lt;a href=&quot;https://speakerdeck.com/milessabin/shapeless-exploring-generic-programming-in-scala&quot;&gt;slides can be found here&lt;/a&gt;.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/07/30/miles-sabin-shapeless-exploring-generic-programming-in-scala/&quot;&gt;Miles Sabin: Shapeless - Exploring Generic Programming in Scala&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://localhost:4000&quot;&gt;FunctionalTalks.org&lt;/a&gt; on July 30, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org/2013/07/30/miles-sabin-shapeless-exploring-generic-programming-in-scala/&quot;&gt;Miles Sabin: Shapeless - Exploring Generic Programming in Scala&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org&quot;&gt;FunctionalTalks.org&lt;/a&gt; on July 30, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Wilkes Joiner: Functional Reactive Programming]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2013/07/21/wilkes-joiner-functional-reactive-programming/"/>
-  <id>http://localhost:4000/2013/07/21/wilkes-joiner-functional-reactive-programming</id>
+  <link rel="alternate" type="text/html" href="http://functionaltalks.github.io/functionaltalks.org/2013/07/21/wilkes-joiner-functional-reactive-programming/"/>
+  <id>http://functionaltalks.github.io/functionaltalks.org/2013/07/21/wilkes-joiner-functional-reactive-programming</id>
   <published>2013-07-21T00:00:00+10:00</published>
   <updated>2013-07-21T00:00:00+10:00</updated>
   <author>
     <name>Chris Myers</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
+    <uri>http://functionaltalks.github.io/functionaltalks.org</uri>
+    <email>chris@chrisandjo.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#bacon.js" term="bacon.js" /><category scheme="http://localhost:4000/tags/#clojure" term="clojure" /><category scheme="http://localhost:4000/tags/#clojureScript" term="clojureScript" /><category scheme="http://localhost:4000/tags/#frp" term="frp" /><category scheme="http://localhost:4000/tags/#Functional%20Reactive%20Programming" term="Functional Reactive Programming" /><category scheme="http://localhost:4000/tags/#Microsoft%E2%80%99s%20Reactive%20Extensions" term="Microsoft’s Reactive Extensions" />
+  <category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#bacon.js" term="bacon.js" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#clojure" term="clojure" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#clojureScript" term="clojureScript" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#frp" term="frp" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#Functional%20Reactive%20Programming" term="Functional Reactive Programming" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#Microsoft%E2%80%99s%20Reactive%20Extensions" term="Microsoft’s Reactive Extensions" />
   <content type="html">
   
     &lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/nket0K1RXU4?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
@@ -290,22 +290,22 @@
 &lt;p&gt;You can find the talk &lt;a href=&quot;http://youtu.be/nket0K1RXU4&quot;&gt;here on YouTube&lt;/a&gt;, the &lt;a href=&quot;https://speakerdeck.com/jorendorff/functional-reactive-programming&quot;&gt;slides here&lt;/a&gt; and the &lt;a href=&quot;https://github.com/Cicayda/yolk-examples&quot;&gt;code on GitHub&lt;/a&gt;.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/07/21/wilkes-joiner-functional-reactive-programming/&quot;&gt;Wilkes Joiner: Functional Reactive Programming&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://localhost:4000&quot;&gt;FunctionalTalks.org&lt;/a&gt; on July 21, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org/2013/07/21/wilkes-joiner-functional-reactive-programming/&quot;&gt;Wilkes Joiner: Functional Reactive Programming&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org&quot;&gt;FunctionalTalks.org&lt;/a&gt; on July 21, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Alexander Gounares: All your cores are belong to us]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2013/07/17/alexander-gounares-all-your-cores-belong-to-us/"/>
-  <id>http://localhost:4000/2013/07/17/alexander-gounares-all-your-cores-belong-to-us</id>
+  <link rel="alternate" type="text/html" href="http://functionaltalks.github.io/functionaltalks.org/2013/07/17/alexander-gounares-all-your-cores-belong-to-us/"/>
+  <id>http://functionaltalks.github.io/functionaltalks.org/2013/07/17/alexander-gounares-all-your-cores-belong-to-us</id>
   <published>2013-07-17T00:00:00+10:00</published>
   <updated>2013-07-17T00:00:00+10:00</updated>
   <author>
     <name>Chris Myers</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
+    <uri>http://functionaltalks.github.io/functionaltalks.org</uri>
+    <email>chris@chrisandjo.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#Erlang" term="Erlang" /><category scheme="http://localhost:4000/tags/#multi-core" term="multi-core" /><category scheme="http://localhost:4000/tags/#threading" term="threading" /><category scheme="http://localhost:4000/tags/#VM" term="VM" />
+  <category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#Erlang" term="Erlang" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#multi-core" term="multi-core" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#threading" term="threading" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#VM" term="VM" />
   <content type="html">
   
     &lt;p&gt;&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/GyHXLIHtPDM?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
@@ -314,22 +314,22 @@
 &lt;p&gt;You can find the talk &lt;a href=&quot;http://youtu.be/GyHXLIHtPDM&quot;&gt;here on Youtube&lt;/a&gt;.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/07/17/alexander-gounares-all-your-cores-belong-to-us/&quot;&gt;Alexander Gounares: All your cores are belong to us&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://localhost:4000&quot;&gt;FunctionalTalks.org&lt;/a&gt; on July 17, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org/2013/07/17/alexander-gounares-all-your-cores-belong-to-us/&quot;&gt;Alexander Gounares: All your cores are belong to us&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org&quot;&gt;FunctionalTalks.org&lt;/a&gt; on July 17, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Katie Miller: Superhero monads]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2013/07/03/katie-miller-superhero-monads/"/>
-  <id>http://localhost:4000/2013/07/03/katie-miller-superhero-monads</id>
+  <link rel="alternate" type="text/html" href="http://functionaltalks.github.io/functionaltalks.org/2013/07/03/katie-miller-superhero-monads/"/>
+  <id>http://functionaltalks.github.io/functionaltalks.org/2013/07/03/katie-miller-superhero-monads</id>
   <published>2013-07-03T00:00:00+10:00</published>
   <updated>2013-07-03T00:00:00+10:00</updated>
   <author>
     <name>Chris Myers</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
+    <uri>http://functionaltalks.github.io/functionaltalks.org</uri>
+    <email>chris@chrisandjo.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#haskell" term="haskell" /><category scheme="http://localhost:4000/tags/#java" term="java" /><category scheme="http://localhost:4000/tags/#monads" term="monads" /><category scheme="http://localhost:4000/tags/#superheroes" term="superheroes" />
+  <category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#haskell" term="haskell" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#java" term="java" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#monads" term="monads" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#superheroes" term="superheroes" />
   <content type="html">
   
     &lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/MlZCiiKGbb0?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
@@ -342,22 +342,22 @@
 &lt;p&gt;Seriously though, the Batman monad would totally destroy the Superman monad in a fight. You know this is true.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/07/03/katie-miller-superhero-monads/&quot;&gt;Katie Miller: Superhero monads&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://localhost:4000&quot;&gt;FunctionalTalks.org&lt;/a&gt; on July 03, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org/2013/07/03/katie-miller-superhero-monads/&quot;&gt;Katie Miller: Superhero monads&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org&quot;&gt;FunctionalTalks.org&lt;/a&gt; on July 03, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Ben Kolera: Isolating Side Effects with Monads]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2013/06/27/ben-kolera-isolating-side-effects-with-monads/"/>
-  <id>http://localhost:4000/2013/06/27/ben-kolera-isolating-side-effects-with-monads</id>
+  <link rel="alternate" type="text/html" href="http://functionaltalks.github.io/functionaltalks.org/2013/06/27/ben-kolera-isolating-side-effects-with-monads/"/>
+  <id>http://functionaltalks.github.io/functionaltalks.org/2013/06/27/ben-kolera-isolating-side-effects-with-monads</id>
   <published>2013-06-27T00:00:00+10:00</published>
   <updated>2013-06-27T00:00:00+10:00</updated>
   <author>
     <name>Chris Myers</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
+    <uri>http://functionaltalks.github.io/functionaltalks.org</uri>
+    <email>chris@chrisandjo.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#Brisbane%20Functional%20Programming%20Group" term="Brisbane Functional Programming Group" /><category scheme="http://localhost:4000/tags/#effects" term="effects" /><category scheme="http://localhost:4000/tags/#monad" term="monad" /><category scheme="http://localhost:4000/tags/#monad%20transformer" term="monad transformer" /><category scheme="http://localhost:4000/tags/#pure%20functional" term="pure functional" /><category scheme="http://localhost:4000/tags/#reader%20monad" term="reader monad" /><category scheme="http://localhost:4000/tags/#ReaderWriterState%20monad" term="ReaderWriterState monad" /><category scheme="http://localhost:4000/tags/#scala" term="scala" /><category scheme="http://localhost:4000/tags/#scalaz" term="scalaz" /><category scheme="http://localhost:4000/tags/#state%20monad" term="state monad" /><category scheme="http://localhost:4000/tags/#writer%20monad" term="writer monad" />
+  <category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#Brisbane%20Functional%20Programming%20Group" term="Brisbane Functional Programming Group" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#effects" term="effects" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#monad" term="monad" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#monad%20transformer" term="monad transformer" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#pure%20functional" term="pure functional" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#reader%20monad" term="reader monad" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#ReaderWriterState%20monad" term="ReaderWriterState monad" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#scala" term="scala" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#scalaz" term="scalaz" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#state%20monad" term="state monad" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#writer%20monad" term="writer monad" />
   <content type="html">
   
     &lt;p&gt;&lt;iframe src=&quot;//player.vimeo.com/video/64796627&quot;
@@ -372,22 +372,22 @@
 &lt;p&gt;You can find the talk &lt;a href=&quot;http://vimeo.com/64796627&quot;&gt;here on vimeo&lt;/a&gt; and slides &lt;a href=&quot;https://github.com/bfpg/bfpg-isolating-effects-with-monads&quot;&gt;here on github&lt;/a&gt;.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/06/27/ben-kolera-isolating-side-effects-with-monads/&quot;&gt;Ben Kolera: Isolating Side Effects with Monads&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://localhost:4000&quot;&gt;FunctionalTalks.org&lt;/a&gt; on June 27, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org/2013/06/27/ben-kolera-isolating-side-effects-with-monads/&quot;&gt;Ben Kolera: Isolating Side Effects with Monads&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org&quot;&gt;FunctionalTalks.org&lt;/a&gt; on June 27, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Brian McKenna: Roy - rescuing JavaScript from itself]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2013/06/24/brian-mckenna-roy-rescuing-javascript-from-itself/"/>
-  <id>http://localhost:4000/2013/06/24/brian-mckenna-roy-rescuing-javascript-from-itself</id>
+  <link rel="alternate" type="text/html" href="http://functionaltalks.github.io/functionaltalks.org/2013/06/24/brian-mckenna-roy-rescuing-javascript-from-itself/"/>
+  <id>http://functionaltalks.github.io/functionaltalks.org/2013/06/24/brian-mckenna-roy-rescuing-javascript-from-itself</id>
   <published>2013-06-24T00:00:00+10:00</published>
   <updated>2013-06-24T00:00:00+10:00</updated>
   <author>
     <name>Chris Myers</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
+    <uri>http://functionaltalks.github.io/functionaltalks.org</uri>
+    <email>chris@chrisandjo.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#altjs" term="altjs" /><category scheme="http://localhost:4000/tags/#haskell" term="haskell" /><category scheme="http://localhost:4000/tags/#javascript" term="javascript" /><category scheme="http://localhost:4000/tags/#roy" term="roy" />
+  <category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#altjs" term="altjs" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#haskell" term="haskell" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#javascript" term="javascript" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#roy" term="roy" />
   <content type="html">
   
     &lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/w3ML8wlt1oU?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
@@ -396,22 +396,22 @@
 &lt;p&gt;You can find the talk &lt;a href=&quot;http://youtu.be/w3ML8wlt1oU&quot;&gt;here on YouTube&lt;/a&gt;.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/06/24/brian-mckenna-roy-rescuing-javascript-from-itself/&quot;&gt;Brian McKenna: Roy - rescuing JavaScript from itself&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://localhost:4000&quot;&gt;FunctionalTalks.org&lt;/a&gt; on June 24, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org/2013/06/24/brian-mckenna-roy-rescuing-javascript-from-itself/&quot;&gt;Brian McKenna: Roy - rescuing JavaScript from itself&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org&quot;&gt;FunctionalTalks.org&lt;/a&gt; on June 24, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Chris Ford: Functional Composition (musically speaking)]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2013/06/22/chris-ford-functional-composition-musically-speaking/"/>
-  <id>http://localhost:4000/2013/06/22/chris-ford-functional-composition-musically-speaking</id>
+  <link rel="alternate" type="text/html" href="http://functionaltalks.github.io/functionaltalks.org/2013/06/22/chris-ford-functional-composition-musically-speaking/"/>
+  <id>http://functionaltalks.github.io/functionaltalks.org/2013/06/22/chris-ford-functional-composition-musically-speaking</id>
   <published>2013-06-22T00:00:00+10:00</published>
   <updated>2013-06-22T00:00:00+10:00</updated>
   <author>
     <name>Chris Myers</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
+    <uri>http://functionaltalks.github.io/functionaltalks.org</uri>
+    <email>chris@chrisandjo.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#clojure" term="clojure" /><category scheme="http://localhost:4000/tags/#function%20compostion" term="function compostion" /><category scheme="http://localhost:4000/tags/#music" term="music" />
+  <category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#clojure" term="clojure" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#function%20compostion" term="function compostion" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#music" term="music" />
   <content type="html">
   
     &lt;p&gt;Chris Ford (&lt;a href=&quot;http://twitter.com/ctford&quot;&gt;@ctford&lt;/a&gt;) says, “Clojure is not the art, it is the easel, it is the paint.” What is the art, is the music which Chris masterfully pieces together with function composition in Clojure. This is a mesmerising talk performed by a virtuoso with an in-depth knowledge of both music and functional programming.&lt;/p&gt;
@@ -419,22 +419,22 @@
 &lt;p&gt;&lt;strong&gt;Unfortunately embedding this video is disabled on youtube. Sadly you will have to &lt;a href=&quot;http://youtu.be/Mfsnlbd-4xQ&quot;&gt;click the link&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/06/22/chris-ford-functional-composition-musically-speaking/&quot;&gt;Chris Ford: Functional Composition (musically speaking)&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://localhost:4000&quot;&gt;FunctionalTalks.org&lt;/a&gt; on June 22, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org/2013/06/22/chris-ford-functional-composition-musically-speaking/&quot;&gt;Chris Ford: Functional Composition (musically speaking)&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org&quot;&gt;FunctionalTalks.org&lt;/a&gt; on June 22, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Paul Chiusano: How to Write a Functional Program with IO, Mutation, and other effects]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2013/06/20/paul-chiusano-how-to-write-a-functional-program-with-io-mutation-and-other-effects/"/>
-  <id>http://localhost:4000/2013/06/20/paul-chiusano-how-to-write-a-functional-program-with-io-mutation-and-other-effects</id>
+  <link rel="alternate" type="text/html" href="http://functionaltalks.github.io/functionaltalks.org/2013/06/20/paul-chiusano-how-to-write-a-functional-program-with-io-mutation-and-other-effects/"/>
+  <id>http://functionaltalks.github.io/functionaltalks.org/2013/06/20/paul-chiusano-how-to-write-a-functional-program-with-io-mutation-and-other-effects</id>
   <published>2013-06-20T00:00:00+10:00</published>
   <updated>2013-06-20T00:00:00+10:00</updated>
   <author>
     <name>Chris Myers</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
+    <uri>http://functionaltalks.github.io/functionaltalks.org</uri>
+    <email>chris@chrisandjo.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#effects" term="effects" /><category scheme="http://localhost:4000/tags/#IO%20monad" term="IO monad" /><category scheme="http://localhost:4000/tags/#pure%20functional" term="pure functional" /><category scheme="http://localhost:4000/tags/#scala" term="scala" />
+  <category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#effects" term="effects" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#IO%20monad" term="IO monad" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#pure%20functional" term="pure functional" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#scala" term="scala" />
   <content type="html">
   
     &lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/1gZAqJA2pEk?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
@@ -442,22 +442,22 @@
 &lt;p&gt;You can find the talk &lt;a href=&quot;http://youtu.be/1gZAqJA2pEk&quot;&gt;here on YouTube&lt;/a&gt;.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/06/20/paul-chiusano-how-to-write-a-functional-program-with-io-mutation-and-other-effects/&quot;&gt;Paul Chiusano: How to Write a Functional Program with IO, Mutation, and other effects&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://localhost:4000&quot;&gt;FunctionalTalks.org&lt;/a&gt; on June 20, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org/2013/06/20/paul-chiusano-how-to-write-a-functional-program-with-io-mutation-and-other-effects/&quot;&gt;Paul Chiusano: How to Write a Functional Program with IO, Mutation, and other effects&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org&quot;&gt;FunctionalTalks.org&lt;/a&gt; on June 20, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Tony Morris: Explain List Folds to Yourself]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2013/06/19/tony-morris-explain-list-folds-to-yourself/"/>
-  <id>http://localhost:4000/2013/06/19/tony-morris-explain-list-folds-to-yourself</id>
+  <link rel="alternate" type="text/html" href="http://functionaltalks.github.io/functionaltalks.org/2013/06/19/tony-morris-explain-list-folds-to-yourself/"/>
+  <id>http://functionaltalks.github.io/functionaltalks.org/2013/06/19/tony-morris-explain-list-folds-to-yourself</id>
   <published>2013-06-19T00:00:00+10:00</published>
   <updated>2013-06-19T00:00:00+10:00</updated>
   <author>
     <name>Chris Myers</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
+    <uri>http://functionaltalks.github.io/functionaltalks.org</uri>
+    <email>chris@chrisandjo.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#Brisbane%20Functional%20Programming%20Group" term="Brisbane Functional Programming Group" /><category scheme="http://localhost:4000/tags/#fold%20left" term="fold left" /><category scheme="http://localhost:4000/tags/#fold%20right" term="fold right" /><category scheme="http://localhost:4000/tags/#folds" term="folds" /><category scheme="http://localhost:4000/tags/#haskell" term="haskell" />
+  <category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#Brisbane%20Functional%20Programming%20Group" term="Brisbane Functional Programming Group" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#fold%20left" term="fold left" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#fold%20right" term="fold right" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#folds" term="folds" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#haskell" term="haskell" />
   <content type="html">
   
     &lt;p&gt;&lt;iframe src=&quot;//player.vimeo.com/video/64673035&quot;
@@ -467,22 +467,22 @@
 &lt;p&gt;You can find the talk and slides on &lt;a href=&quot;http://tmorris.net/posts/list-folds-bfpg/index.html&quot;&gt;Tony&#39;s blog&lt;/a&gt; or &lt;a href=&quot;http://vimeo.com/64673035&quot;&gt;here on vimeo&lt;/a&gt;.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/06/19/tony-morris-explain-list-folds-to-yourself/&quot;&gt;Tony Morris: Explain List Folds to Yourself&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://localhost:4000&quot;&gt;FunctionalTalks.org&lt;/a&gt; on June 19, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org/2013/06/19/tony-morris-explain-list-folds-to-yourself/&quot;&gt;Tony Morris: Explain List Folds to Yourself&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org&quot;&gt;FunctionalTalks.org&lt;/a&gt; on June 19, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Rúnar Óli Bjarnason: Dead-Simple Dependency Injection]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2013/06/17/runar-oli-bjarnason-dead-simple-dependency-injection/"/>
-  <id>http://localhost:4000/2013/06/17/runar-oli-bjarnason-dead-simple-dependency-injection</id>
+  <link rel="alternate" type="text/html" href="http://functionaltalks.github.io/functionaltalks.org/2013/06/17/runar-oli-bjarnason-dead-simple-dependency-injection/"/>
+  <id>http://functionaltalks.github.io/functionaltalks.org/2013/06/17/runar-oli-bjarnason-dead-simple-dependency-injection</id>
   <published>2013-06-17T00:00:00+10:00</published>
   <updated>2013-06-17T00:00:00+10:00</updated>
   <author>
     <name>Chris Myers</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
+    <uri>http://functionaltalks.github.io/functionaltalks.org</uri>
+    <email>chris@chrisandjo.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#dependency%20injection" term="dependency injection" /><category scheme="http://localhost:4000/tags/#free%20monad" term="free monad" /><category scheme="http://localhost:4000/tags/#inversion%20of%20control" term="inversion of control" /><category scheme="http://localhost:4000/tags/#ioc" term="ioc" /><category scheme="http://localhost:4000/tags/#Northeast%20Scala%20Symposium" term="Northeast Scala Symposium" /><category scheme="http://localhost:4000/tags/#pure%20functional" term="pure functional" /><category scheme="http://localhost:4000/tags/#reader%20monad" term="reader monad" /><category scheme="http://localhost:4000/tags/#scala" term="scala" /><category scheme="http://localhost:4000/tags/#scalaz" term="scalaz" />
+  <category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#dependency%20injection" term="dependency injection" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#free%20monad" term="free monad" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#inversion%20of%20control" term="inversion of control" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#ioc" term="ioc" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#Northeast%20Scala%20Symposium" term="Northeast Scala Symposium" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#pure%20functional" term="pure functional" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#reader%20monad" term="reader monad" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#scala" term="scala" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#scalaz" term="scalaz" />
   <content type="html">
   
     &lt;p&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/ZasXwtTRkio?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
@@ -491,22 +491,22 @@
 &lt;p&gt;You can find the talk &lt;a href=&quot;http://youtu.be/ZasXwtTRkio&quot;&gt;here on youtube&lt;/a&gt;.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/06/17/runar-oli-bjarnason-dead-simple-dependency-injection/&quot;&gt;Rúnar Óli Bjarnason: Dead-Simple Dependency Injection&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://localhost:4000&quot;&gt;FunctionalTalks.org&lt;/a&gt; on June 17, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org/2013/06/17/runar-oli-bjarnason-dead-simple-dependency-injection/&quot;&gt;Rúnar Óli Bjarnason: Dead-Simple Dependency Injection&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org&quot;&gt;FunctionalTalks.org&lt;/a&gt; on June 17, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Rich Hickey: Introduction To Clojure]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/2013/06/08/rich-hickey-introduction-to-clojure/"/>
-  <id>http://localhost:4000/2013/06/08/rich-hickey-introduction-to-clojure</id>
+  <link rel="alternate" type="text/html" href="http://functionaltalks.github.io/functionaltalks.org/2013/06/08/rich-hickey-introduction-to-clojure/"/>
+  <id>http://functionaltalks.github.io/functionaltalks.org/2013/06/08/rich-hickey-introduction-to-clojure</id>
   <published>2013-06-08T00:00:00+10:00</published>
   <updated>2013-06-08T00:00:00+10:00</updated>
   <author>
     <name>Chris Myers</name>
-    <uri>http://localhost:4000</uri>
-    <email>you@email.com</email>
+    <uri>http://functionaltalks.github.io/functionaltalks.org</uri>
+    <email>chris@chrisandjo.com</email>
   </author>
-  <category scheme="http://localhost:4000/tags/#clojure" term="clojure" /><category scheme="http://localhost:4000/tags/#CLR" term="CLR" /><category scheme="http://localhost:4000/tags/#immutability" term="immutability" /><category scheme="http://localhost:4000/tags/#immutable" term="immutable" /><category scheme="http://localhost:4000/tags/#introduction" term="introduction" /><category scheme="http://localhost:4000/tags/#JVM" term="JVM" /><category scheme="http://localhost:4000/tags/#software%20transactional%20memory" term="software transactional memory" /><category scheme="http://localhost:4000/tags/#stm" term="stm" />
+  <category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#clojure" term="clojure" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#CLR" term="CLR" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#immutability" term="immutability" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#immutable" term="immutable" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#introduction" term="introduction" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#JVM" term="JVM" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#software%20transactional%20memory" term="software transactional memory" /><category scheme="http://functionaltalks.github.io/functionaltalks.org/tags/#stm" term="stm" />
   <content type="html">
   
     &lt;p&gt;&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/wASCH_gPnDw?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
@@ -514,7 +514,7 @@
 &lt;p&gt;The talk can be found &lt;a href=&quot;http://youtu.be/wASCH_gPnDw&quot;&gt;on youtube here&lt;/a&gt;.&lt;/p&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2013/06/08/rich-hickey-introduction-to-clojure/&quot;&gt;Rich Hickey: Introduction To Clojure&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://localhost:4000&quot;&gt;FunctionalTalks.org&lt;/a&gt; on June 08, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org/2013/06/08/rich-hickey-introduction-to-clojure/&quot;&gt;Rich Hickey: Introduction To Clojure&lt;/a&gt; was originally published by Chris Myers at &lt;a href=&quot;http://functionaltalks.github.io/functionaltalks.org&quot;&gt;FunctionalTalks.org&lt;/a&gt; on June 08, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>
