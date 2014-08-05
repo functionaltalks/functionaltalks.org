@@ -1,158 +1,158 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://functionaltalks.org</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org</loc>
     </url>
     
     
     <url>
-        <loc>http://functionaltalks.org/404.html</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/404.html</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/about/</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/about/</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/articles/</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/articles/</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/feed.xml</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/feed.xml</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/index.html</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/index.html</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/search.json</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/search.json</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/sitemap.xml</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/sitemap.xml</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/tags/</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/tags/</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/theme-setup/</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/theme-setup/</loc>
     </url>
     
 
     
     <url>
-        <loc>http://functionaltalks.org/2014/06/15/alissa-pajer-how-haskell-changed-my-brain/</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/2014/06/15/alissa-pajer-how-haskell-changed-my-brain/</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/2014/03/31/runar-oli-bjarnason-functional-programming-is-terrible/</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/2014/03/31/runar-oli-bjarnason-functional-programming-is-terrible/</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/2014/03/16/eugene-yokota-learning-scalaz/</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/2014/03/16/eugene-yokota-learning-scalaz/</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/2014/03/05/mark-hibberd-tony-morris-argonaut-pure-functional-json/</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/2014/03/05/mark-hibberd-tony-morris-argonaut-pure-functional-json/</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/2013/10/27/tony-morris-monad-transformers/</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/2013/10/27/tony-morris-monad-transformers/</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/2013/10/27/manuel-chakravarty-do-extraterrestrials-use-functional-programming/</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/2013/10/27/manuel-chakravarty-do-extraterrestrials-use-functional-programming/</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/2013/09/27/dan-rosen-declutter-your-code-with-monads/</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/2013/09/27/dan-rosen-declutter-your-code-with-monads/</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/2013/08/26/john-carmack-thoughts-on-haskell/</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/2013/08/26/john-carmack-thoughts-on-haskell/</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/2013/08/25/paul-chiusano-advanced-stream-processing-in-scala/</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/2013/08/25/paul-chiusano-advanced-stream-processing-in-scala/</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/2013/07/30/miles-sabin-shapeless-exploring-generic-programming-in-scala/</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/2013/07/30/miles-sabin-shapeless-exploring-generic-programming-in-scala/</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/2013/07/21/wilkes-joiner-functional-reactive-programming/</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/2013/07/21/wilkes-joiner-functional-reactive-programming/</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/2013/07/17/alexander-gounares-all-your-cores-belong-to-us/</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/2013/07/17/alexander-gounares-all-your-cores-belong-to-us/</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/2013/07/03/katie-miller-superhero-monads/</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/2013/07/03/katie-miller-superhero-monads/</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/2013/06/27/ben-kolera-isolating-side-effects-with-monads/</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/2013/06/27/ben-kolera-isolating-side-effects-with-monads/</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/2013/06/24/brian-mckenna-roy-rescuing-javascript-from-itself/</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/2013/06/24/brian-mckenna-roy-rescuing-javascript-from-itself/</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/2013/06/22/chris-ford-functional-composition-musically-speaking/</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/2013/06/22/chris-ford-functional-composition-musically-speaking/</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/2013/06/20/paul-chiusano-how-to-write-a-functional-program-with-io-mutation-and-other-effects/</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/2013/06/20/paul-chiusano-how-to-write-a-functional-program-with-io-mutation-and-other-effects/</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/2013/06/19/tony-morris-explain-list-folds-to-yourself/</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/2013/06/19/tony-morris-explain-list-folds-to-yourself/</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/2013/06/17/runar-oli-bjarnason-dead-simple-dependency-injection/</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/2013/06/17/runar-oli-bjarnason-dead-simple-dependency-injection/</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/2013/06/08/rich-hickey-introduction-to-clojure/</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/2013/06/08/rich-hickey-introduction-to-clojure/</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/2013/06/03/tony-morris-dependency-injection-without-the-gymnastics/</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/2013/06/03/tony-morris-dependency-injection-without-the-gymnastics/</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/2013/05/29/30/</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/2013/05/29/30/</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/2013/05/28/john-a-de-goes-building-a-data-science-platform-in-scala/</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/2013/05/28/john-a-de-goes-building-a-data-science-platform-in-scala/</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/2013/05/27/nick-partridge-scalaz/</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/2013/05/27/nick-partridge-scalaz/</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/2013/05/27/michael-pilquist-scalaz-state-monad/</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/2013/05/27/michael-pilquist-scalaz-state-monad/</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/2013/05/27/lars-hupel-scalaz-7/</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/2013/05/27/lars-hupel-scalaz-7/</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/2013/05/27/jordan-west-monad-transformers/</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/2013/05/27/jordan-west-monad-transformers/</loc>
     </url>
     
     <url>
-        <loc>http://functionaltalks.org/2013/05/27/brian-lonsdorf-hey-underscore-youre-doing-it-wrong/</loc>
+        <loc>http://functionaltalks.github.io/functionaltalks.org/2013/05/27/brian-lonsdorf-hey-underscore-youre-doing-it-wrong/</loc>
     </url>
     
 </urlset>
