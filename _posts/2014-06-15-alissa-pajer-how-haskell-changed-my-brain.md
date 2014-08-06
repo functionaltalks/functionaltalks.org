@@ -2,6 +2,7 @@
 layout: post
 title: 'Alissa Pajer: How Haskell changed my brain'
 comments: true
+share: true
 categories:
 - category theory
 - haskell
